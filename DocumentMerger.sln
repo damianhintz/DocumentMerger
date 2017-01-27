@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentMerger", "DocumentMerger\DocumentMerger.csproj", "{476EA776-AD33-42FC-9EF5-C5CE3CE35059}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F23FB43F-A7BF-4A46-BFEE-0C896A5D9306}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentMergerDomena", "DocumentMergerDomena\DocumentMergerDomena.csproj", "{4F5ADF6C-87DA-4E4D-B35D-E988DB2D1B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentMergerTesty", "DocumentMergerTesty\DocumentMergerTesty.csproj", "{D2B936B8-3134-4A86-8ED6-45659431F02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476EA776-AD33-42FC-9EF5-C5CE3CE35059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476EA776-AD33-42FC-9EF5-C5CE3CE35059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476EA776-AD33-42FC-9EF5-C5CE3CE35059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476EA776-AD33-42FC-9EF5-C5CE3CE35059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5ADF6C-87DA-4E4D-B35D-E988DB2D1B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5ADF6C-87DA-4E4D-B35D-E988DB2D1B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5ADF6C-87DA-4E4D-B35D-E988DB2D1B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5ADF6C-87DA-4E4D-B35D-E988DB2D1B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B936B8-3134-4A86-8ED6-45659431F02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B936B8-3134-4A86-8ED6-45659431F02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B936B8-3134-4A86-8ED6-45659431F02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B936B8-3134-4A86-8ED6-45659431F02A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
